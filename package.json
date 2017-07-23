@@ -19,18 +19,11 @@
   "devDependencies": {
     "gh-pages": "^1.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tammy4572/playlist.git"
-  },
   "keywords": [
     "React",
     "App"
   ],
   "author": "Tammy4572",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Tammy4572/playlist/issues"
-  },
-  "homepage": "https://github.com/Tammy4572/playlist#readme"
+  "homepage": "https://github.com/Tammy4572/playlist"
 }
